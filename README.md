@@ -12,7 +12,8 @@ A keyboard-driven mouse replacement system ideal for users who prefer or need to
 
 Install:
 
-	git pull 
+	git pull https://github.com/sovos15/Quadder.git
+ 	CD Quadder
 	pip install pyautogui opencv-python keyboard numpy pillow pywin32 pynput 
 	python quadder.py
 
