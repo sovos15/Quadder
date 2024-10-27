@@ -5,7 +5,7 @@ A keyboard-driven mouse replacement system ideal for users who prefer or need to
 ### ✨ Precise Mouse Control:
 - Navigate the screen with recursive grid divisions using numpad keys.
 - Primary, Secondary, and Middle Clicks
-- Drag-and-Drop (WIP)
+- Drag-and-Drop (broken)
 - Use + and - on the numpad for scrolling up and down. (untested)
 - semitransparent, fullscreen grid overlay with numbered regions.
 - Should work across various operating systems (Windows, Linux, macOS) with minimal dependencies.
